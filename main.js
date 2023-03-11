@@ -30,8 +30,8 @@ const servers = {
 
 // Global State
 const pc = new RTCPeerConnection(servers);
-let localStream = "https://dainty-eclair-31b66c.netlify.app/";
-let remoteStream = "https://dainty-eclair-31b66c.netlify.app/";
+let localStream = "https://clever-malasada-12c33d.netlify.app/";
+let remoteStream = "https://clever-malasada-12c33d.netlify.app/";
 ;
 
 // HTML elements
